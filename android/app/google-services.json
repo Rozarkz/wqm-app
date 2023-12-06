@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "1750128794",
+    "firebase_url": "https://trspe-bec09-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "trspe-bec09",
+    "storage_bucket": "trspe-bec09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1750128794:android:9a0d11dabd0f94e4cea723",
+        "android_client_info": {
+          "package_name": "com.angel.wqmapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1750128794-bhndere22ab72g49kmecpfveguk0ovha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI7gMtmCqj6owIiOOyap1bZOyLEbzuEAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1750128794-bhndere22ab72g49kmecpfveguk0ovha.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1750128794-r8ogkegmsopa0c5h6cpe1kep8mkstas0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutter14ChatApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1750128794:android:5b546f287a31aa6ccea723",
+        "android_client_info": {
+          "package_name": "com.example.wqmapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1750128794-bhndere22ab72g49kmecpfveguk0ovha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI7gMtmCqj6owIiOOyap1bZOyLEbzuEAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1750128794-bhndere22ab72g49kmecpfveguk0ovha.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1750128794-r8ogkegmsopa0c5h6cpe1kep8mkstas0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutter14ChatApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
